@@ -1,0 +1,30 @@
+<html>
+<head>
+<title> 鴨肉珍 </title>
+
+</head>
+
+<body>
+
+<p align=center><img src="image/123.jpg"><img src="image/456.jpg"></p>
+<br>
+
+<font face="標楷體">
+<p align=center>說到鹽埕美食大家會想到哪些店家? 如果是一甲子以上的老店又會想到哪幾間?
+<br>這回品嚐已超過一甲子老店的鴨肉珍
+<br>必點鴨肉飯、肉燥飯、鴨肉切盤至於合不合口味就看個人囉
+<br>鹽埕區65年老店，在地的都知道，老闆大名為吳登珍，顧店名取名為鴨肉珍~
+<br>舊址在新樂街，後來搬來到五福四路這裡，店面擴大後生意變得更好!!</p>
+
+<p align=center><br>803高雄市鹽埕區五福四路258號
+<br>50 219 88 鹽埕埔站
+<br>07 521 5018
+<br>10:00–20:20
+<br>星期二 公休</p>
+
+<p align=center><br><embed src="film/123456.mp4" width="350" height="240"</font></p>
+
+<p align=center><br><a href="index(2).html">蔡家北港三代筒仔米糕</a></p>
+
+</body>
+</html>
